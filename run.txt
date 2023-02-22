@@ -1,0 +1,36 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter ) 
+
+type 
+
+cd BOT (enter) 
+
+type 
+
+python app.py ( enter u will get ip address copy and past in chormew websit will open ) 
+
+regist and login
+
+how to run jupyter file 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter ) 
+
+type 
+
+cd BOT (enter) 
+
+type 
+cd jupiter code ( enter)
+
+type 
+
+jupyter notebook Fraud_Ensemble.ipynb (enter ) 
